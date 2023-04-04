@@ -7,4 +7,4 @@ Caso se interesse pela versão anterior do aplicativo, assim como um guia para i
 
 <img src="assets/images/preview_images/preview-1.png" width="216" height="384">     <img src="assets/images/preview_images/preview-2.png" width="216" height="384">
 
-[Vídeo demonstrativo]()
+[Vídeo demonstrativo](https://www.youtube.com/watch?v=TC2ewNug0ag)
